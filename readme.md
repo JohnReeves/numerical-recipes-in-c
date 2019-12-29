@@ -4,7 +4,7 @@
 
 * use `run` to execute main.sh;   
 * modify `main.sh` to build & add linux features; or    
-* use `gcc sample.c -o sample` to build your code.    
+* use `gcc sample.c -o ./Results/sample` to build your code.    
 * type `./Results/sample` to run your code.    
 
 Section / Title | Progress | Results
@@ -91,33 +91,35 @@ Section / Title | Progress | Results
 '04 Indexing and Ranking' | Not Started    
 '05 Selecting the Mth Largest' | Not Started    
 '06 Determination of Equivalence Classes' | Not Started   
-*'09 Sorting'*| Not Started    
+*'09 Root Finding and Nonlinear Sets of Equations'*| Not Started    
 '00 Introduction' | Not Started  
-'01 Straight Insertion and Shell's Method' | Not Started    
-'02 Quicksort' | Not Started    
-'03 Heapsort' | Not Started    
-'04 Indexing and Ranking' | Not Started    
-'05 Selecting the Mth Largest' | Not Started    
-'06 Determination of Equivalence Classes' | Not Started   
-'07 Separability' | Not Started   
+'01 Bracketing and Bisection' | Not Started    
+'02 Secant Method, False Position Method, and Ridders' Method' | Not Started    
+'03 Van Wijngaarden-Dekker-Brent Method' | Not Started    
+'04 Newton-Raphson Method Using Derivatives' | Not Started    
+'05 Roots of Polynomials' | Not Started    
+'06 Newton-Raphson Method for Nonlinear Systems of Equations' | Not Started   
+'07 Globally Convergent Methods for Nonlinear Systems of Equations' | Not Started   
 *'10 Minimization or Maximumization of Functions'*| Not Started    
 '00 Introduction' | Not Started  
-'01 Straight Insertion and Shell's Method' | Not Started    
-'02 Quicksort' | Not Started    
-'03 Heapsort' | Not Started    
-'04 Indexing and Ranking' | Not Started    
-'05 Selecting the Mth Largest' | Not Started    
-'06 Determination of Equivalence Classes' | Not Started   
-'07 Separability' | Not Started   
+'01 Golden Section Search in One Dimension' | Not Started    
+'02 Parabolic Interpolation and Brent's Method in ONe Dimension' | Not Started    
+'03 One Dimensional Search with First Derivatives' | Not Started    
+'04 Downhill Simplex Method in Multidimensions' | Not Started    
+'05 Direction Set (Powell's) Methods in Multidimensions' | Not Started    
+'06 Conjugate Gradient Methods in Multidimensions' | Not Started   
+'07 Variable Metric Methods in Multidimensions' | Not Started   
+'08 Linear Programming and the Simplex Method' | Not Started   
+'09 Simulated Annealing Methods' | Not Started   
 *'11 Eigensystems'*| Not Started    
 '00 Introduction' | Not Started  
-'01 Straight Insertion and Shell's Method' | Not Started    
-'02 Quicksort' | Not Started    
-'03 Heapsort' | Not Started    
-'04 Indexing and Ranking' | Not Started    
-'05 Selecting the Mth Largest' | Not Started    
-'06 Determination of Equivalence Classes' | Not Started   
-'07 Separability' | Not Started   
+'01 Jacobi Transformation of a Symmetric Matrix' | Not Started    
+'02 Reduction of a Symmetric Matrix to a Tridiagonal Form: Givens and Householder Reductions' | Not Started    
+'03 Eigenvalues and EigenVectors of a Tridiagonal Matrix' | Not Started    
+'04 Hermitian Matrices' | Not Started    
+'05 Reduction of a General Matrix to Hessenberg Form' | Not Started    
+'06 The QR Algorithm for Real Hessenberg Matrices' | Not Started   
+'07 Improving Eigenvalues and/or Finding Eigenvectors by Inverse Iteration' | Not Started   
 *'12 Fast Fourier Transforms'*| Not Started    
 '00 Introduction' | Not Started  
 '01 Fourier Transform of Discretely Sampled Data' | Not Started    
@@ -128,13 +130,17 @@ Section / Title | Progress | Results
 '06 External Storage or Memory-Local FFTs' | Not Started   
 *'13 Fourier and Spectral Applications'*| Not Started    
 '00 Introduction' | Not Started  
-'01 Straight Insertion and Shell's Method' | Not Started    
-'02 Quicksort' | Not Started    
-'03 Heapsort' | Not Started    
-'04 Indexing and Ranking' | Not Started    
-'05 Selecting the Mth Largest' | Not Started    
-'06 Determination of Equivalence Classes' | Not Started   
-'07 Separability' | Not Started   
+'01 Convolution and Deconvolution using the FFT' | Not Started    
+'02 Correlation and Autocorrelation using the FFT' | Not Started    
+'03 Optimal (Wiener) Filtering using the FFT' | Not Started    
+'04 Power Spectrum Estimation using the FFT' | Not Started    
+'05 Digital Filtering in the Time Domain' | Not Started    
+'06 Linear Prediction and Linear Predictive Coding' | Not Started   
+'07 Power Sprectrum Estimation by the Maximum Entropy (All Poles) Method' | Not Started   
+'08 Spectral Analysis of Unevenly Sampled Data' | Not Started    
+'09 Computing Fourier Integrals using the FFT' | Not Started    
+'10 Wavelet Tranforms' | Not Started   
+'11 Numerical Use of the Sampling Theorem' | Not Started   
 *'14 Statistical Description of Data'*| Not Started    
 '00 Introduction' | Not Started  
 '01 Moments of a Distribution: Mean, Variance, Skewness, and So Forth' | Not Started    
