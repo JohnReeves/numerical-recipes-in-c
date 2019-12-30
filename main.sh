@@ -10,6 +10,10 @@ echo
 # including any other gcc flags you like
 # ./path-to-sample/sample
 
+# compile fortran with 
+# gfortran -ffree-form sample.f -o sample
+# ./path-to-sample/sample
+
 intro=$PWD/"01 Preliminaries/01 Introduction"
 
 echo "building: "
